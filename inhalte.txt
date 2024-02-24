@@ -1,0 +1,61 @@
+Illustrator Full Course Tutorial (6+ Hours).mp4
+Start 0:00
+Introduction 0:03
+Customizing the Workspace 1:20
+Panels 10:45
+Vector vs Bitmap 20:14
+Creating New Documents 24:15
+Basic Selection Techniques 29:47
+Magic Wand Tool 35:27
+Shapes 38:48
+Shapes Tips and Tricks 49:51
+Direct Selection Tool 56:41
+Scale Tool 1:03:57
+Rotate Tool 1:08:02
+Layers 1:10:45
+Eyedropper and Swatches 1:20:02
+Working with Swatches 1:22:53
+Creating Patterns 1:26:46
+Expanding Appearance in Objects from Strokes 1:34:18
+Gradients 1:36:38
+Freeform Gradients 1:46:39
+Working with Artboards 1:52:59
+Exporting Assets 1:59:58
+Shape Builder Tool 2:03:03
+Pen Tool 2:16:24
+Pencil Tool 2:20:21
+Guides and Grids 2:23:28
+Smooth Tool 2:28:44
+Width Tool 2:31:07
+Brush Strokes 2:35:29
+Adding Anchor Points 2:42:14
+Transparency and Opacity Settings 2:51:29
+Type and Typography 2:54:14
+Type on a Path 3:04:35
+Appearance Panel 3:10:47
+Exporting and Packaging 3:15:58
+Conclusion 3:23:07
+Introduction 3:24:01
+Getting Started 3:25:09
+Creative Cloud Libraries 3:30:45
+Adobe Stock 3:35:25
+Touch Type Tool 3:42:48
+Scaling 3:47:52
+Rotation 4:02:10
+Creating a Celtic Knot 4:08:00
+Creating a Mandala Flower 4:14:30
+Live Paint 4:23:32
+Image Trace 4:30:23
+More Live Paint 4:36:36
+Brush Strokes 4:40:35
+Symbols 4:50:30
+Creating New Symbols 4:58:07
+Using Advanced Symbol Tools 5:02:24
+3D Text 5:03:52
+3D Objects and Symbol Mapping 5:14:25
+Blending Tool 5:28:37
+Effects 5:43:12
+Graphic Styles 5:55:55
+Paragraph Styles 6:07:16
+Character Styles 6:15:34
+Conclusion 6:18:44
